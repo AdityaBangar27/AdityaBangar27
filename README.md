@@ -13,12 +13,30 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge"/>
+</p>
+
+### 💻 Programming
 <p>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
 </p>
 
 ---
