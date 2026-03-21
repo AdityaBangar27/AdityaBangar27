@@ -56,9 +56,8 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📷 Instagram: your-link
+- 📧 Email: bangaraditya894@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditya-bangar-3bb177315/)
 
 ---
 
